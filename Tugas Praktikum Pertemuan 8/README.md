@@ -3,9 +3,9 @@
 ## Link Tinkercad
 
 ## Anggota Kelompok
-1.  Nama: Naufal Siswanto
-    NIM: H1H025033
-2.  Nama:
+1.  Nama: Naufal Siswanto  
+    NIM: H1H025033  
+2.  Nama:  
     NIM:
 3.  Nama:
     NIM:
