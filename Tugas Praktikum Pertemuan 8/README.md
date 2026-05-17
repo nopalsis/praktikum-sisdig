@@ -63,7 +63,6 @@ Rangkaian gerbang XNOR (Exclusive-NOR) pada simulasi Tinkercad ini dirancang sec
 6. Menjalankan simulasi
 7. Mengamati output LED berdasarkan input switch
 
-# Dokumentasi
 ## Dokumentasi
 
 ### Rangkaian AND
