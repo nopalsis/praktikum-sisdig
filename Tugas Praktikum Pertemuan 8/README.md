@@ -8,7 +8,7 @@ https://www.tinkercad.com/things/6mSiy9cQJkA-praktikum-sisdig-8/editel?returnTo=
     NIM: H1H025033  
 2.  Nama: Felix Erza Shandika  
     NIM: H1H025034
-4.  Nama: Keylan Muhammad Sukur
+4.  Nama: Keylan Muhammad Sukur  
     NIM: H1H025023
 
 ## Deskripsi
