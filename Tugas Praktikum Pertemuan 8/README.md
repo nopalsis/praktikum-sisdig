@@ -6,7 +6,7 @@
 1.  Nama: Naufal Siswanto  
     NIM: H1H025033  
 2.  Nama:  Felix Erza Shandika
-    NIM: H1H025034
+     NIM: H1H025034
 4.  Nama:  
     NIM:  
 
