@@ -67,25 +67,25 @@ Rangkaian gerbang XNOR (Exclusive-NOR) pada simulasi Tinkercad ini dirancang sec
 ## Dokumentasi
 
 ### Rangkaian AND
-![AND](images/and.png)
+![AND](images/AND.png)
 
 ### Rangkaian OR
-![OR](images/or.png)
+![OR](images/OR.png)
 
 ### Rangkaian NOT
-![OR](images/not.png)
+![OR](images/NOT.png)
 
 ### Rangkaian NAND
-![OR](images/nand.png)
+![OR](images/NAND.png)
 
 ### Rangkaian NOR
-![OR](images/nor.png)
+![OR](images/NOR.png)
 
 ### Rangkaian XOR
-![OR](images/xor.png)
+![OR](images/XOR.png)
 
 ### Rangkaian XNOR
-![OR](images/xnor.png)
+![OR](images/XNOR.png)
 
 ## Hasil Percobaan
 Hasil simulasi menunjukkan bahwa setiap gerbang logika bekerja sesuai dengan tabel kebenaran masing-masing.
