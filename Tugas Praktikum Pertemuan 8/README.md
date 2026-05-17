@@ -4,6 +4,7 @@
 https://www.tinkercad.com/things/6mSiy9cQJkA-praktikum-sisdig-8/editel?returnTo=%2Fthings%2F6mSiy9cQJkA-praktikum-sisdig-8&sharecode=PrXjGdm2I3x6HGmQ-bDpIMMCaDn-1CD97VM_WaqtIHg
 
 ## Anggota Kelompok
+<<<<<<< HEAD
 1.  Nama: Naufal Siswanto  
     NIM: H1H025033  
 2.  Nama: Felix Erza Shandika  
@@ -61,6 +62,30 @@ Rangkaian gerbang XNOR (Exclusive-NOR) pada simulasi Tinkercad ini dirancang sec
 5. Mengatur nilai resistor menjadi 220Ω
 6. Menjalankan simulasi
 7. Mengamati output LED berdasarkan input switch
+
+# Dokumentasi
+## Dokumentasi
+
+### Rangkaian AND
+![AND](images/and.png)
+
+### Rangkaian OR
+![OR](images/or.png)
+
+### Rangkaian NOT
+![OR](images/not.png)
+
+### Rangkaian NAND
+![OR](images/nand.png)
+
+### Rangkaian NOR
+![OR](images/nor.png)
+
+### Rangkaian XOR
+![OR](images/xor.png)
+
+### Rangkaian XNOR
+![OR](images/xnor.png)
 
 ## Hasil Percobaan
 Hasil simulasi menunjukkan bahwa setiap gerbang logika bekerja sesuai dengan tabel kebenaran masing-masing.
