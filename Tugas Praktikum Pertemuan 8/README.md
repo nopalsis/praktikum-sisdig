@@ -5,8 +5,8 @@
 ## Anggota Kelompok
 1.  Nama: Naufal Siswanto  
     NIM: H1H025033  
-2.  Nama:  
-    NIM:
+2.  Nama:  Felix Erza Shandika
+    NIM: H1H025034
 3.  Nama:  
     NIM:  
 
