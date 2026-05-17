@@ -1,13 +1,15 @@
 # Gerbang Logika Menggunakan Tinkercad
 
 ## Link Tinkercad
+https://www.tinkercad.com/things/6mSiy9cQJkA-praktikum-sisdig-8/editel?returnTo=%2Fthings%2F6mSiy9cQJkA-praktikum-sisdig-8&sharecode=PrXjGdm2I3x6HGmQ-bDpIMMCaDn-1CD97VM_WaqtIHg
 
 ## Anggota Kelompok
 1.  Nama: Naufal Siswanto  
     NIM: H1H025033  
-2.  Nama:  Felix Erza Shandika  NIM: H1H025034
-4.  Nama:  
-    NIM:  
+2.  Nama: Felix Erza Shandika  
+    NIM: H1H025034
+4.  Nama: Keylan Muhammad Sukur
+    NIM: H1H025023
 
 ## Deskripsi
 Project ini merupakan simulasi gerbang logika digital menggunakan platform Tinkercad. Simulasi dilakukan untuk memahami cara kerja gerbang logika dasar menggunakan IC TTL seri 74HC dengan output berupa LED.
