@@ -7,8 +7,8 @@
     NIM: H1H025033  
 2.  Nama:  
     NIM:
-3.  Nama:
-    NIM:
+3.  Nama:  
+    NIM:  
 
 ## Deskripsi
 Project ini merupakan simulasi gerbang logika digital menggunakan platform Tinkercad. Simulasi dilakukan untuk memahami cara kerja gerbang logika dasar menggunakan IC TTL seri 74HC dengan output berupa LED.
