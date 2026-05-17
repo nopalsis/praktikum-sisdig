@@ -4,7 +4,7 @@
 https://www.tinkercad.com/things/6mSiy9cQJkA-praktikum-sisdig-8/editel?returnTo=%2Fthings%2F6mSiy9cQJkA-praktikum-sisdig-8&sharecode=PrXjGdm2I3x6HGmQ-bDpIMMCaDn-1CD97VM_WaqtIHg
 
 ## Anggota Kelompok
-<<<<<<< HEAD
+
 1.  Nama: Naufal Siswanto  
     NIM: H1H025033  
 2.  Nama: Felix Erza Shandika  
